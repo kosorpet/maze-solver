@@ -16,6 +16,6 @@ make clean
 ```
 1. Random Search
 2. DFS
-3. BFS\
+3. BFS
 4. Greedy Search
 5. A*
