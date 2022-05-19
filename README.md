@@ -19,3 +19,5 @@ make clean
 3. BFS
 4. Greedy Search
 5. A*
+
+![maze](https://github.com/kosorpet/maze-solver/blob/main/gif/maze.gif)
